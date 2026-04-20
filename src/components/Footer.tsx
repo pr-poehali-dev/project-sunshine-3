@@ -62,7 +62,7 @@ export function Footer() {
 
         <div className="pt-8 border-t border-border flex flex-col md:flex-row md:items-center justify-between gap-4 text-sm text-muted-foreground">
           <p>© 2025 Мастер на час. Все права защищены.</p>
-          <p>Работаем без выходных · 8:00 – 22:00</p>
+          <p>Работаем без выходных · 8:00 – 19:00</p>
         </div>
       </div>
     </footer>

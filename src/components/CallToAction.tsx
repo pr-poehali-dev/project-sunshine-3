@@ -46,7 +46,7 @@ export function CallToAction() {
           </h2>
 
           <p className="text-primary-foreground/70 text-lg md:text-xl leading-relaxed mb-12 max-w-2xl mx-auto">
-            Оставьте заявку — перезвоню в течение 15 минут. Работаю без выходных с 8:00 до 22:00.
+            Оставьте заявку — перезвоню в течение 15 минут. Работаю без выходных с 8:00 до 19:00.
           </p>
 
           {success ? (
