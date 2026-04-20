@@ -47,8 +47,8 @@ export function Footer() {
                 </a>
               </li>
               <li>
-                <a href="https://t.me/master_na_chas" className="hover:text-foreground transition-colors">
-                  Telegram
+                <a href="https://max.ru/+79780661315" className="hover:text-foreground transition-colors">
+                  MAX
                 </a>
               </li>
               <li>

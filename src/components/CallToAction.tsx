@@ -106,10 +106,10 @@ export function CallToAction() {
               Позвонить: +7 (978) 066-13-15
             </a>
             <a
-              href="https://t.me/master_na_chas"
+              href="https://max.ru/+79780661315"
               className="inline-flex items-center justify-center gap-2 border border-primary-foreground/30 px-8 py-4 text-sm tracking-wide hover:bg-primary-foreground/10 transition-colors duration-300"
             >
-              Написать в Telegram
+              Написать в MAX
             </a>
           </div>
         </div>
