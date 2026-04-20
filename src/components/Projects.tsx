@@ -8,7 +8,7 @@ const projects = [
     category: "Сантехника",
     location: "Квартира 65 м²",
     year: "2024",
-    image: "/images/hously-1.png",
+    image: "https://cdn.poehali.dev/projects/a460b857-ca2a-41e7-9c58-4ae01dcaef35/files/2b27a2f7-c741-420a-8a9f-069d4ab4989d.jpg",
   },
   {
     id: 2,
@@ -16,7 +16,7 @@ const projects = [
     category: "Электрика",
     location: "Частный дом",
     year: "2024",
-    image: "/images/hously-2.png",
+    image: "https://cdn.poehali.dev/projects/a460b857-ca2a-41e7-9c58-4ae01dcaef35/files/2f5e071a-49eb-44d3-82fd-d81822d344b9.jpg",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const projects = [
     category: "Сантехника",
     location: "Квартира после ремонта",
     year: "2023",
-    image: "/images/hously-3.png",
+    image: "https://cdn.poehali.dev/projects/a460b857-ca2a-41e7-9c58-4ae01dcaef35/files/cc972530-fe51-4c6e-b7fb-790cb733816d.jpg",
   },
   {
     id: 4,
@@ -32,7 +32,7 @@ const projects = [
     category: "Электрика",
     location: "Офис 120 м²",
     year: "2023",
-    image: "/images/hously-4.png",
+    image: "https://cdn.poehali.dev/projects/a460b857-ca2a-41e7-9c58-4ae01dcaef35/files/f62e4824-13d7-468f-84b8-e1f0c01a6465.jpg",
   },
 ]
 
