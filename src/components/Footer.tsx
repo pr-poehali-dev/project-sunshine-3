@@ -51,11 +51,7 @@ export function Footer() {
                   MAX
                 </a>
               </li>
-              <li>
-                <a href="https://wa.me/79780661315" className="hover:text-foreground transition-colors">
-                  WhatsApp
-                </a>
-              </li>
+
             </ul>
           </div>
         </div>
